@@ -1,0 +1,1 @@
+void bilinear_interpolation(const char* input_path, const char* output_path, double scale_factor);
